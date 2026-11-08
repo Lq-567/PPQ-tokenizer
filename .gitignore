@@ -1,0 +1,13 @@
+# Data and model outputs are distributed separately from Git history.
+/data/
+/cache/
+/outputs/
+/reference/*.npz
+/reference/ppq_codes.npy
+*.pth
+*.pt
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.ipynb_checkpoints/
